@@ -1,6 +1,6 @@
 ---
-title: "Dan's Lockdown Movie Studio Quiz Round"
-date: 10 April 2020
+title: "Movie Studio Quiz Round"
+date: New Years 2020
 output:
   revealjs::revealjs_presentation:
     self_contained: false
